@@ -1,4 +1,4 @@
-# Java Chess Game ♟️
+# Java Chess Game 
 
 A fully object-oriented chess game implemented in **Java**, developed as a learning project to practice **OOP**, **clean code principles**, and **game logic design**.  
 
@@ -6,7 +6,7 @@ This project simulates a complete chess match, including movement rules, special
 
 ---
 
-## 🚀 Features
+## Features
 - Full chessboard logic with piece movement
 - Special rules:
   - Castling
@@ -19,14 +19,14 @@ This project simulates a complete chess match, including movement rules, special
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Java 17+**
 - **OOP principles** (inheritance, polymorphism, encapsulation)
 - **Maven/Gradle** *(optional, if you configure later)*
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```text
 src/
  ├── application/       # Main program entry point
