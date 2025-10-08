@@ -7,7 +7,7 @@ public class ChessPiece extends Piece{
 
     public ChessPiece(Board board, Color color) {
         super(board);
-        this.color = this.color;
+        this.color = color;
     }
     public Color getColor() {
         return color;
