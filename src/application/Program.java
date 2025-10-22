@@ -32,12 +32,7 @@ public class Program {
                 System.out.println("Target: ");
                 ChessPosition target = UI.readChessPosition(sc);
 
-                System.out.println();
-                System.out.println("Target: ");
-
-
                 ChessPiece capturedPiece = chessMatch.performChessMove(source, target);
-
                 if(capturedPiece != null){
                     captured.add(capturedPiece);
                 }
